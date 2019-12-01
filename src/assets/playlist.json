@@ -1,0 +1,20 @@
+{
+  "playlistId": "MyPlaylist",
+  "playlist":
+  [
+    {
+      "num": 1,
+      "title": "S3 operations with AWS Lambda",
+      "id": "GEizappc_WI",
+      "duration": "11.36",
+      "video": "https://www.youtube.com/embed/GEizappc_WI"
+    },
+    {
+      "num": 2,
+      "title": "Cómo aprender lo que sea y crear equipos imparables | PlatziConf",
+      "id": "YyUjqMzKWD8",
+      "duration": "27:50",
+      "video": "https://www.youtube.com/embed/YyUjqMzKWD8"
+    }
+  ]
+}
